@@ -26,3 +26,4 @@ public class Building : MonoBehaviour {
 		this.transform.parent = null;
 	}
 }
+//添加注释
